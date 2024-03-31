@@ -9,7 +9,7 @@ Original repo can be found [here](https://github.com/catppuccin/cursors).
 - All built cursors will be in the `dist` directory.
 
 ## Installing cursors
-- Copy the cursors as recommended by the [Hyprland wik](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) into `~/.local/share/icons/` or `~/.icons`.
+- Copy the cursors as recommended by the [Hyprland wiki](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) into `~/.local/share/icons/` or `~/.icons`.
 - Set the `HYPRCURSOR_THEME` and `HYPRCURSOR_SIZE` environment variables.
 
 ## License
