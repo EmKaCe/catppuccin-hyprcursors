@@ -1,6 +1,6 @@
 # Catppuccin Hyprcursors
 
-ALL CREDIT BELONGS TO THE ORIGINAL AUTHORS. I JUST MADE THEM HYPR.
+ALL CREDIT BELONGS TO THE ORIGINAL AUTHORS. I JUST MADE THEM HYPR.  
 Original repo can be found [here](https://github.com/catppuccin/cursors).
 
 ## Building cursors
