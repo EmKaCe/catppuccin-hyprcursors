@@ -1,0 +1,12 @@
+# Size 0 due to SVG
+define_size = 0, pirate.svg
+
+# Use none due to SVG
+resize_algorithm = none
+
+# Clickpoint: center of x
+hotspot_x = 0.48
+hotspot_y = 0.65
+
+# Name
+define_override = pirate
